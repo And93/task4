@@ -1,6 +1,6 @@
 const chai =  require('chai');
 const expect = chai.expect;
-const calculator = require('../main/Calculator');
+const calculator = require('../../main/Calculator');
 
 describe('Unit tests of Calculator::multiply', () => {
 
