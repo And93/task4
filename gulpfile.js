@@ -10,7 +10,7 @@ const sources = [
 ];
 
 const testSources = [
-    'tests/**/*.js'
+    'tests/jasmine/*.js'
 ];
 
 const jasmineOpts = {
