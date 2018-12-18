@@ -27,6 +27,6 @@ class Calculator {
         }
         throw new Error('Please set more that one argument for the Calculator::multiply');
     };
-};
+}
 
 module.exports = new Calculator();
